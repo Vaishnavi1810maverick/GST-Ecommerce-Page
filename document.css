@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Rajdhani:wght@600&family=Raleway&display=swap');
+
+body{
+  font-family: 'Raleway', sans-serif;
+}
+h4{
+  font-family: 'Rajdhani', sans-serif;
+}
+
+h2{
+  font-family: 'Merriweather Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+
+}
+.card p{
+  font-size: 20px;
+}
+.groupContainer {
+background-color: #3498DB ;
+
+}
+.groupContainer h2{
+  color: white;
+}
+.card-title{
+  font-family: 'Rajdhani', sans-serif;
+font-size: 25px;
+}
+.midContainer{
+  height: 300px;
+  background-color: white;
+}
+.cardContainer{
+  background-color: #3498DB ;
+  margin: 0px;
+}
+.card p {
+    font-size: 18px;
+}
+.cardContainerBackground{
+  background-color: #3498DB ;
+  margin: 0px;
+}
+.cardContainer h2{
+  color: white
+}
