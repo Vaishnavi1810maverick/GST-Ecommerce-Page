@@ -18,9 +18,11 @@ color: white;
 }
  .nav-link {
     color: white;
+        font-size: 28px;
 }
 .navbar-brand{
   color: white;
+      font-size: 30px;
 }
 .topContainer h1{
   font-size: 50px;

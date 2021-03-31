@@ -6,7 +6,14 @@ body{
 h4{
   font-family: 'Rajdhani', sans-serif;
 }
-
+.nav-link {
+   color: white;
+       font-size: 28px;
+}
+.navbar-brand{
+ color: white;
+     font-size: 30px;
+}
 h2{
   font-family: 'Merriweather Sans', sans-serif;
     font-size: 40px;

@@ -11,6 +11,14 @@ h2{
 p{
   font-size: 20px;
 }
+.nav-link {
+   color: white;
+       font-size: 28px;
+}
+.navbar-brand{
+ color: white;
+     font-size: 30px;
+}
 h6{
   font-family: 'Merriweather Sans', sans-serif;
   font-size: 25px;
